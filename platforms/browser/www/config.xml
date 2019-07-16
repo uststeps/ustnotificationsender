@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.steps.myuste.push" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>UST Notification Sender</name>
+    <description>
+        Send FCM Notification on UST mobile applications
+    </description>
+    <author email="myust.steps@gmail.com" href="">
+       STEPS
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+</widget>

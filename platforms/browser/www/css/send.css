@@ -1,0 +1,51 @@
+body {
+	font-size:14px;
+}
+
+#selectTo {
+	font-size:25px;
+	width:100%;
+}
+
+#historyTable {
+    width:100%;
+    border:1px solid #222222;
+    border-collapse:collapse;
+
+}
+
+#historyTable tr td {
+    border:1px solid #222222;
+	
+
+}
+.globalTableHeader {
+	background-color:#222222;
+	color:#ffffff;
+}
+
+.globalTableRow {
+	background-color:#ffffff;
+	color:#222222;
+}
+
+#container {
+    width:50%;
+}
+
+#rightContainer {
+    width:50%;
+}
+
+.mainContainer {
+	padding:10px;
+}
+
+.sendInput {
+	width:95%;
+	font-size:14px;
+}
+
+.sendButton {
+	width:100%
+}

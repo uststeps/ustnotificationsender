@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+        <title>Blank App</title>
+		<script src="js/jquery.js"></script>
+    </head>
+    <body>
+	
+	<div class="app">
+	
+		<h1>
+		UST Notification Sender
+		</h1>
+		<br/>
+		<br/>
+		<br/>
+		<center>
+		<form>
+			<input type="text" id="inputUser" placeholder="Username" /><br/><br/>
+			<input type="text" id="inputPass" placeholder="Password"/><br/><br/>
+			<button class="globalButtonStyle" type="button" onclick="app.onLogin()" id="login" value="LOGIN" />
+				LOGIN
+			</button>
+		</form>
+		</center>
+    </div>
+		<!--#########################################################-->
+			<script type="text/javascript" src="cordova.js"></script>
+			<script type="text/javascript" src="js/index.js"></script>
+			<script type="text/javascript">
+			   
+				app.initialize();
+				app.onLoad();
+			</script>
+			<link rel="stylesheet" type="text/css" href="css/globalStyle.css"  charset="utf-8" />
+			<link rel="stylesheet" type="text/css" href="css/index.css" />
+			<link rel="stylesheet" type="text/css" href="css/nav.css" />
+		<!--#########################################################-->
+
+    </body>
+</html>

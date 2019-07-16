@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\PROJECTS\\MobileProject\\UST Notification Sender\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jeremy\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\badd1c7efeb110d0c261e7e5f99dc618\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Workspace\\Current\\UST Notification Sender\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User9\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0086a8f172b801857c3f2c1613d82aad\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

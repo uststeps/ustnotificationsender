@@ -1,0 +1,19 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "phonegap-plugin-push": {
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.steps.myuste.push"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.steps.myuste.push"
+    }
+  },
+  "dependent_plugins": {}
+}
